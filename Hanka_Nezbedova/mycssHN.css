@@ -1,0 +1,28 @@
+body{
+   background-color: initial;
+}
+
+h1{color:grey;
+}
+
+.IMG_0973 {
+   display: flex;
+   align-items: flex-start; 
+   gap: 20px;
+ }
+
+ .Hanka1{
+   width: 350px;
+   height: 350px;
+   object-fit: cover;
+ }
+
+ .kdo jsem{
+   max-width: 500px;
+ }
+
+#HanaN{
+   background-color: initial;
+   font-family:initial;
+   color:cadetblue
+}
